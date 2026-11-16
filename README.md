@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Неоновый пурпурно-розовый баннер-шапка -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=200&section=header&text=DJOREKS%20BASE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=RESTRICTED%20ARCHIVE%20//%20INTERNAL%20USE%20ONLY&descAlignY=58&descSize=16" width="100%" />
+  <!-- Аметистовый переливающийся баннер -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B155E,35:7B32A8,70:B85EE6,100:E49BFF&height=210&section=header&text=DJOREKS%20BASE&fontSize=55&fontColor=F8E6FF&animation=twinkling&fontAlignY=38&desc=RESTRICTED%20ARCHIVE%20//%20AMETHYST%20VAULT&descAlignY=58&descSize=16" width="100%" />
 
-  ![Status](https://img.shields.io/badge/STATUS-ONLINE-9D00FF?style=for-the-badge)
-  ![Access](https://img.shields.io/badge/ACCESS-PRIVATE-FF007F?style=for-the-badge)
-  ![Storage](https://img.shields.io/badge/CONTENT-UNFILTERED-4B0082?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/STATUS-ONLINE-8E44AD?style=for-the-badge)
+  ![Access](https://img.shields.io/badge/ACCESS-PRIVATE-D883FF?style=for-the-badge)
+  ![Storage](https://img.shields.io/badge/CONTENT-UNFILTERED-4A1A70?style=for-the-badge)
 
 </div>
 
