@@ -1,5 +1,9 @@
 <div align="center">
   <img src="./banner.svg" width="100%" alt="DJOREKS BASE" />
+  
+  ![Status](https://img.shields.io/badge/STATUS-ONLINE-8E44AD?style=for-the-badge)
+  ![Access](https://img.shields.io/badge/ACCESS-PRIVATE-D883FF?style=for-the-badge)
+  ![Storage](https://img.shields.io/badge/CONTENT-UNFILTERED-4A1A70?style=for-the-badge)
 </div>
 
 ---
