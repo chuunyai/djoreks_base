@@ -149,7 +149,7 @@
     </g>
 
     <!-- ЦЕНТРАЛЬНАЯ КОМПОЗИЦИЯ (Текст) -->
-    <g text-anchor="middle" font-family="'Minecraft Rus', 'Minecraft', 'Monocraft', 'Press Start 2P', 'Silkscreen', 'Consolas', monospace" shape-rendering="crispEdges">
+   <g text-anchor="middle" font-family="'Consolas', monospace" font-weight="bold">
       <!-- Декоративная линия сверху -->
       <line x1="460" y1="62" x2="740" y2="62" stroke="#D98BFF" stroke-width="1" stroke-opacity="0.35" />
       <polygon points="600,58 604,62 600,66 596,62" fill="#E6A8FF" />
